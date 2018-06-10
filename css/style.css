@@ -1669,3 +1669,120 @@ figure.effect-bubba h4.gal {
 	border-radius: 50%;
 	background: black;
 }
+
+
+
+
+
+@media(max-width:680px){
+	.responsiveNavBar {
+		font-size: 0.6em;
+		position: relative;
+		top: -45px;
+	}
+
+	.jqueryslidemenu {
+		background-size: 100% 75% !important;
+	}.jqueryslidemenu
+
+	.logo {
+		width: 30%;
+	}
+
+	 .right-carousel-control-responsive{
+		 padding-right: 20% !important;
+	 }
+
+	 .footer-in{
+		 width: 30% !important;
+	 }
+}
+
+@media(max-width:540px){
+	.responsiveNavBar {
+		font-size: 0.5em;
+		position: relative;
+		top: -100px;
+	}
+	.jqueryslidemenu {
+		background-size: 100% 50% !important;
+	}.jqueryslidemenu
+
+	 .logo {
+		 width: 26%;
+	 }
+
+	 .bcentrado{
+		 font-size: 0.5em;
+	 }
+
+	 .footer{
+		 font-size: 0.5em;
+	 }
+
+	.header-top2 {
+		padding-top: 15% !important;
+	}
+
+	.header-top3 {
+		padding-top: 15% !important;
+	}
+
+	.header-top5 {
+		padding-top: 15% !important;
+	}
+
+	.header-top4 {
+		padding-top: 15% !important;
+	}
+
+	.grid10 {
+		padding-top: 15% !important;
+	}
+}
+
+@media(min-width:540px) and (max-width: 850px){
+	.slider {
+		padding-top: 25% !important;
+	}
+}
+
+@media(max-width: 850px){
+	.header-top2 {
+		padding-top: 0 !important;
+	}
+
+	.header-top3 {
+		padding-top: 0 !important;
+	}
+
+	.header-top5 {
+		padding-top: 0 !important;
+	}
+
+	.header-top4 {
+		padding-top: 0 !important;
+	}
+
+	.grid10 {
+		padding-top: 0 !important;
+	}
+}
+
+@media(max-width: 768px){
+	.responsive-contact-info{
+		padding-top: 25%;
+	}
+}
+
+@media(min-width: 768px) and (max-width: 850px){
+	.responsive-contact-info{
+		padding-top: 25%;
+	}
+}
+
+@media(max-width: 992px){
+	.footer{
+		font-size: 0.6em;
+	}
+}
