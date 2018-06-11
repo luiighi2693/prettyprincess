@@ -73,7 +73,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <div class="container">
                         <div class="welcome" id="welcome">
                             <div class="col-xs-4 col-xs" style="margin-left: 7%;">
-                                <p><a href="contacto.html" class="scroll"><img style="width: 90%; height: 90%;"
+                                <p><a href="contacto.html"><img style="width: 90%; height: 90%;"
                                                                                src="images/packs.jpg"></a></p>
                             </div>
                             <div style="float: right;" class="col-xs-6 col">
@@ -191,14 +191,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <script>
     $("#footer").load("/components/footer.html");
-
-    jQuery(document).ready(function ($) {
-        $(".scroll").click(function (event) {
-            event.preventDefault();
-            $('html,body').animate({scrollTop: $(this.hash).offset().top}, 1000);
-        });
-    });
-
 </script>
 
 </body>
