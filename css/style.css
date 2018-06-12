@@ -925,7 +925,7 @@ figure.effect-bubba:hover p {
   -ms-transition: 0.5s all;
 }
 .your-submit  input[type="submit"]:hover{
-	background:#ccce00;
+	background:#f57f9b;
 }
 .contact-box {
 	position:relative;
@@ -1706,7 +1706,7 @@ figure.effect-bubba h4.gal {
 	}
 	.jqueryslidemenu {
 		background-size: 100% 50% !important;
-	}.jqueryslidemenu
+	}
 
 	 .logo {
 		 width: 26%;
@@ -1722,22 +1722,55 @@ figure.effect-bubba h4.gal {
 
 	.header-top2 {
 		padding-top: 15% !important;
+		background-repeat: round;
 	}
 
 	.header-top3 {
 		padding-top: 15% !important;
+		background-repeat: round;
 	}
 
 	.header-top5 {
 		padding-top: 15% !important;
+		background-repeat: round;
 	}
 
 	.header-top4 {
 		padding-top: 15% !important;
+		background-repeat: round;
 	}
 
 	.grid10 {
 		padding-top: 15% !important;
+	}
+
+	.grid{
+		background-repeat: round;
+	}
+
+    .footer-in {
+        padding: 2% !important;
+    }
+
+    .containerFooter{
+        margin-left: 0 !important;
+        padding: 0 !important;
+    }
+
+    .footerResponsive{
+        float: right;
+    }
+
+	.contact {
+		font-weight: normal !important;
+	}
+
+	.responsive-contact-info {
+		padding-top: 10% !important;
+	}
+
+	.borderLine {
+		border-top-width: 1px;
 	}
 }
 
@@ -1784,5 +1817,82 @@ figure.effect-bubba h4.gal {
 @media(max-width: 992px){
 	.footer{
 		font-size: 0.6em;
+	}
+}
+
+@media(max-width:400px){
+	.jqueryslidemenu {
+		background-size: 100% 38% !important;
+	}
+
+	.responsiveNavBar {
+		font-size: 0.5em;
+		position: relative;
+		top: -122px;
+	}
+
+	.arrowCarousel{
+		width: 20px;
+	}
+
+    .slider {
+        padding-top: 15% !important;
+    }
+
+    .welcome {
+        padding-top: 0 !important;
+    }
+
+    .dropdownMenu {
+        top: 5px!important;
+    }
+}
+
+@media (max-width: 767px) {
+	.textAreaMessage {
+		width: 150% !important;
+	}
+}
+
+@media(min-width: 401px) and (max-width: 539px){
+	.dropdownMenu{
+		top: 5px!important;
+	}
+}
+
+@media(min-width: 401px) and (max-width: 768px){
+	.welcome {
+		padding-top: 0 !important;
+	}
+}
+
+@media(min-width: 540px) and (max-width: 679px){
+	.dropdownMenu{
+		top: 5px!important;
+	}
+}
+
+@media(min-width: 681px) and (max-width: 1100px){
+	.right-carousel-control-responsive{
+		padding-right: 15%;
+	}
+}
+
+@media (max-width: 1024px) {
+	.logo {
+		width: 23% !important;
+	}
+
+	.jqueryslidemenu {
+		background-size: 100% 80% !important;
+	}
+
+	.responsiveNavBar {
+		position: relative;
+		top: -40px;
+	}
+
+	.dropdownMenu {
+		top: 30px !important;
 	}
 }

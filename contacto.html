@@ -41,8 +41,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <li><a href="contacto.html">&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;Contacto</a></li>
         <li><a href="birthdays.html">&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;Cumpleaños</a></li>
 
-        <li class="active"><a href="#">&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;Servicios</a>
-            <ul>
+        <li class="active" onclick="changeServiceButton()"><a href="#">&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;Servicios</a>
+            <ul id="dropdownMenu" class="dropdownMenu">
                 <li style="padding-top: 15px;"><a href="entertainment.html">Entretenimiento</a></li>
                 <li><a href="living.html">Salón</a></li>
                 <li><a href="boutique.html">Boutique</a></li>
@@ -68,7 +68,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                     <form id="myForm" style="color: #000 !important;" method="post" action="mail.php">
                         <div class="col-xs-7 your-name">
-                            <span style="color: #000 !important;">NOMBRE Y APELLIDO*</span>
+                            <span id="labelName" style="color: #000 !important;">NOMBRE Y APELLIDO*</span>
                             <input style="background: white; border: 1px solid;" type="text" name="name" id="name"
                                    placeholder="" oninvalid="setCustomValidity('Nombre inválido')" required>
                         </div>
@@ -90,7 +90,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         </div>
 
                         <div class="col-xs-7 your-name">
-                            <span style="color: #000 !important;">CORREO ELECTRÓNICO*</span>
+                            <span id="labelEmail" style="color: #000 !important;">CORREO ELECTRÓNICO*</span>
                             <input style="background: white; border: 1px solid;" type="email" name="email" id="email"
                                    placeholder="" oninvalid="setCustomValidity('Email inválido')" required>
                         </div>
@@ -125,7 +125,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                 </label>
                             </div>
                             <div class="col-xs-8 your-msg" style="padding-right: 0;">
-                                <textarea style="background: white; border: 1px solid;" cols="70" rows="4"
+                                <textarea class="textAreaMessage" style="background: white; border: 1px solid;" cols="70" rows="4"
                                           name="message" placeholder="Descripción"></textarea>
                             </div>
                         </div>
@@ -156,6 +156,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     $(function () {
         $('.gallery-grid a').Chocolat();
     });
+
+    if ($(window).width() <= 441){
+        $('#labelName').text('NOMBRE');
+        $('#labelEmail').text('CORREO');
+    }
 
     function sendObjects() {
         if (validateForm()) {

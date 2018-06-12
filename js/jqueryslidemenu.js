@@ -43,7 +43,7 @@ buildmenu:function(menuid, arrowsvar){
 				}
 			) //end hover
 			$curobj.click(function(){
-				$(this).children("ul:eq(0)").hide()
+				//$(this).children("ul:eq(0)").hide()
 			})
 		}) //end $headers.each()
 		$mainmenu.find("ul").css({display:'none', visibility:'visible'})
@@ -51,5 +51,12 @@ buildmenu:function(menuid, arrowsvar){
 }
 }
 
+function changeServiceButton() {
+    if ($('#dropdownMenu').css('display') === 'none'){
+        $('#dropdownMenu').css('display', 'block');
+    } else{
+        $('#dropdownMenu').css('display', 'none');
+    }
+}
 //build menu with ID="myslidemenu" on page:
-jqueryslidemenu.buildmenu("myslidemenu", arrowimages)
+jqueryslidemenu.buildmenu("myslidemenu", arrowimages);
