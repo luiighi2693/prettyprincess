@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10a3f54a-deb2-45c2-8ec5-05503200213d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Spa Party_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Spa Party_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Spa Party_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cumple VIP - new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cumple VIP - ps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/partyVip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pretty_princess_day.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/princess_day_birthday - new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/princess_day_birthday.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/princess_day_ps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/servicios de salon_todas - 1 - 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/servicios de salon_todas - 2 - 1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/birthdays-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/birthdays.html" beforeDir="false" afterPath="$PROJECT_DIR$/birthdays.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boutique-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boutique.html" beforeDir="false" afterPath="$PROJECT_DIR$/boutique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jqueryslidemenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jqueryslidemenu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entertainment-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entertainment.html" beforeDir="false" afterPath="$PROJECT_DIR$/entertainment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pretty_Princess_Day_ps.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Pretty_Princess_Day_ps.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/accesorios_todos_ps.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/accesorios_todos_ps.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/princess_day_birthday.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/princess_day_birthday.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/servicios de salon_todas_ps.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/servicios de salon_todas_ps.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexORI.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jqueryslidemenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jqueryslidemenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/living-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/living.html" beforeDir="false" afterPath="$PROJECT_DIR$/living.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promotions-old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promotions.html" beforeDir="false" afterPath="$PROJECT_DIR$/promotions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/respaldo.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/respaldo2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/to-nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web3.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web4.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,8 +50,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="1859" column="22" lean-forward="true" selection-start-line="1859" selection-start-column="22" selection-end-line="1859" selection-end-column="22" />
+            <state relative-caret-position="31603">
+              <caret line="1859" column="22" selection-start-line="1859" selection-start-column="22" selection-end-line="1859" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -123,11 +80,8 @@
       <file leaf-file-name="jqueryslidemenu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jqueryslidemenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="1020">
               <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -255,6 +209,11 @@
             <path>
               <item name="prettyprincess" type="b2602c69:ProjectViewProjectNode" />
               <item name="prettyprincess" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prettyprincess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prettyprincess" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -341,7 +300,8 @@
       <workItem from="1528816974065" duration="4639000" />
       <workItem from="1528835351220" duration="18199000" />
       <workItem from="1528904061913" duration="2543000" />
-      <workItem from="1528983232019" duration="4413000" />
+      <workItem from="1528983232019" duration="5110000" />
+      <workItem from="1529001408700" duration="847000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1527800977605</created>
@@ -378,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528776071414</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="main changes in the page responsive 4">
+      <created>1528992348700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528992348700</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135266000" />
+    <option name="totallyTimeSpent" value="136810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -391,12 +358,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.3100159" />
+      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.33863276" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32838285" />
-      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.2635432" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2510981" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.27013177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25768667" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.329429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -404,8 +371,8 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -423,7 +390,8 @@
     <MESSAGE value="main changes in the page 2" />
     <MESSAGE value="main changes in the page responsive 2" />
     <MESSAGE value="main changes in the page responsive 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="main changes in the page responsive 3" />
+    <MESSAGE value="main changes in the page responsive 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="main changes in the page responsive 4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css">
@@ -726,13 +694,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/move-top.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -784,18 +746,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jqueryslidemenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="1020">
           <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="1859" column="22" lean-forward="true" selection-start-line="1859" selection-start-column="22" selection-end-line="1859" selection-end-column="22" />
+        <state relative-caret-position="31603">
+          <caret line="1859" column="22" selection-start-line="1859" selection-start-column="22" selection-end-line="1859" selection-end-column="22" />
         </state>
       </provider>
     </entry>
