@@ -1678,15 +1678,15 @@ figure.effect-bubba h4.gal {
 	.responsiveNavBar {
 		font-size: 0.6em;
 		position: relative;
-		top: -45px;
+		top: -65px;
 	}
 
 	.jqueryslidemenu {
-		background-size: 100% 75% !important;
-	}.jqueryslidemenu
+		background-size: 100% 65% !important;
+	}
 
 	.logo {
-		width: 30%;
+		width: 27%;
 	}
 
 	 .right-carousel-control-responsive{
@@ -1695,6 +1695,10 @@ figure.effect-bubba h4.gal {
 
 	 .footer-in{
 		 width: 30% !important;
+	 }
+
+	 .header-top4 {
+		 background-repeat: round!important;
 	 }
 }
 
@@ -1846,6 +1850,10 @@ figure.effect-bubba h4.gal {
     .dropdownMenu {
         top: 5px!important;
     }
+
+	.footer {
+		font-size: 0.45em; !important;
+	}
 }
 
 @media (max-width: 767px) {
@@ -1878,7 +1886,7 @@ figure.effect-bubba h4.gal {
 	}
 }
 
-@media (max-width: 1024px) {
+@media (min-width: 681px) and (max-width: 1024px) {
 	.logo {
 		width: 23% !important;
 	}

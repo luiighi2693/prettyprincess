@@ -50,13 +50,18 @@ buildmenu:function(menuid, arrowsvar){
 	}) //end document.ready
 }
 }
+let isVisible = 'none';
 
 function changeServiceButton() {
-    if ($('#dropdownMenu').css('display') === 'none'){
+    if ($('#dropdownMenu').css('display') === 'none' || isVisible === 'none' ){
         $('#dropdownMenu').css('display', 'block');
+        isVisible = 'block';
     } else{
         $('#dropdownMenu').css('display', 'none');
+        isVisible = 'none';
     }
 }
 //build menu with ID="myslidemenu" on page:
 jqueryslidemenu.buildmenu("myslidemenu", arrowimages);
+
+$('#dropdownMenu').css('display', 'none');
